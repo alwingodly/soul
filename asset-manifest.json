@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/soul/static/css/main.da10d910.css",
+    "main.js": "/soul/static/js/main.7bc39e63.js",
+    "static/media/alwinpic.png": "/soul/static/media/alwinpic.65abafed3636d709f13e.png",
+    "index.html": "/soul/index.html",
+    "main.da10d910.css.map": "/soul/static/css/main.da10d910.css.map",
+    "main.7bc39e63.js.map": "/soul/static/js/main.7bc39e63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da10d910.css",
+    "static/js/main.7bc39e63.js"
+  ]
+}
